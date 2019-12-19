@@ -42,7 +42,7 @@
 
 .checkbox-checked {
    color: #000;
-   background: #fff;
+   background: rgb(126, 121, 121);
 }
 
 ul {
@@ -55,7 +55,7 @@ ul {
 input {
    border: none;
    background: transparent;
-   color: white;
+   color: black;
    font-size: 1.4rem;
    outline: none;
    width: 100%;
