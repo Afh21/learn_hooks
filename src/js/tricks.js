@@ -53,3 +53,6 @@ var obj2 = {
 
 const employee = { ...obj1, ...obj2 };
 console.log('Employee: ', employee);
+
+// ===================================================================================
+// https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-5-of-6-e81e0736e69d
